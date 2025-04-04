@@ -10,6 +10,7 @@ while (opcao != 7)
 {
     Console.Clear();
     Console.WriteLine("%%%%%%%%%%%%%%%%%%%% MENU %%%%%%%%%%%%%%%%%%%%%%");
+    
     Console.WriteLine();
     Console.WriteLine("1 - Cadastrar o aluno");
     Console.WriteLine("2 - Listar os alunos");
